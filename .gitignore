@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -61,3 +62,6 @@ build/
 *.meta
 229 lines yanked
 
+=======
+target/
+>>>>>>> ba5a3cf27e30f15304cd88d598407b300acb524b
