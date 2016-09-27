@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cygan</groupId>
 	<artifactId>study-maven-plugin</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<distributionManagement>
 		<repository>
@@ -12,9 +12,8 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:git@git.oschina.net:iamagitfan/learn-maven-plug-in.git</connection>
-		<developerConnection>scm:git:git@git.oschina.net:iamagitfan/learn-maven-plug-in.git</developerConnection>
-		<tag>study-maven-plugin-0.0.2</tag>
+		<connection>scm:git:git@github.com:cygnusguan/cygnus.git</connection>
+		<developerConnection>scm:git:git@github.com:cygnusguan/cygnus.git</developerConnection>
 	</scm>
 
 	<build>
