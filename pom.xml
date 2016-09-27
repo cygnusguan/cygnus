@@ -2,19 +2,20 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cygan</groupId>
 	<artifactId>study-maven-plugin</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
 			<name>Repo</name>
-			<url>file:///Users/cygan/Documents/workspace/local-git-repo</url>
+			<url>file:///Users/cygan/Documents/workspace/local-git-repo/release</url>
 		</repository>
 	</distributionManagement>
 	<scm>
 		<connection>scm:git:git@github.com:cygnusguan/cygnus.git</connection>
 		<developerConnection>scm:git:git@github.com:cygnusguan/cygnus.git</developerConnection>
-	</scm>
+	  <tag>HEAD</tag>
+  </scm>
 
 	<build>
 		<plugins>
