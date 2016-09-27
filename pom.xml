@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cygan</groupId>
 	<artifactId>study-maven-plugin</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 
 	<distributionManagement>
 		<repository>
@@ -13,9 +12,9 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:file:///Users/cygan/Documents/workspace/local-git-repo</connection>
-		<developerConnection>scm:git:file:///Users/cygan/Documents/workspace/local-git-repo</developerConnection>
-		<tag>HEAD</tag>
+		<connection>scm:git:git@git.oschina.net:iamagitfan/learn-maven-plug-in.git</connection>
+		<developerConnection>scm:git:git@git.oschina.net:iamagitfan/learn-maven-plug-in.git</developerConnection>
+		<tag>study-maven-plugin-0.0.2</tag>
 	</scm>
 
 	<build>
