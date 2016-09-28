@@ -14,7 +14,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cygnusguan/cygnus.git</connection>
 		<developerConnection>scm:git:git@github.com:cygnusguan/cygnus.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>release-branch</tag>
   </scm>
 
 	<build>
