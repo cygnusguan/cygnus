@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cygan</groupId>
 	<artifactId>study-maven-plugin</artifactId>
-	<version>0.0.12-RC1</version>
+	<version>0.0.12-RC2-SNAPSHOT</version>
 
 	<distributionManagement>
 		<repository>
@@ -14,7 +14,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cygnusguan/cygnus.git</connection>
 		<developerConnection>scm:git:git@github.com:cygnusguan/cygnus.git</developerConnection>
-	  <tag>study-maven-plugin-0.0.12-RC1</tag>
+	  <tag>rc1</tag>
   </scm>
 
 	<build>
