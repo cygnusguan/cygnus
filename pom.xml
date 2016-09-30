@@ -14,6 +14,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:cygnusguan/cygnus.git</connection>
 		<developerConnection>scm:git:git@github.com:cygnusguan/cygnus.git</developerConnection>
+		<url>htt://www.github.com</url>
 	  <tag>product</tag>
   </scm>
 
